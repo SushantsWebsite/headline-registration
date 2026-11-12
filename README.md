@@ -7,6 +7,10 @@ compares them with existing titles you paste in, and tracks the 30-day and 180-d
 PRGI’s final call on whether titles are the same or similar. Check the Verified Titles list on the
 PRGI website and read the current guidelines before you apply.
 
+## Live app
+
+[Open the Headline Registration app](https://headline-registration-leu95zahkromozkxebirjn.streamlit.app/)
+
 ## Run it
 
 ```bash
